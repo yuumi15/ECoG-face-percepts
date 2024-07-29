@@ -1,4 +1,4 @@
-## How Face Precepts are Influenced by Noise (Neuromatch Academy Project)
+## How Face Precepts are Influenced by Noise
 _This project was completed as part of the Neuromatch Academy's Computational Neuroscience course (Summer 2024)_
 
 **Project Goal:**
